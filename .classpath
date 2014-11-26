@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="File Programs/CreateAndRead/src"/>
+	<classpathentry kind="src" path="File Programs/CreditInquiry/src"/>
+	<classpathentry kind="src" path="File Programs/Enums/src"/>
+	<classpathentry kind="src" path="File Programs/Files/src"/>
+	<classpathentry kind="src" path="File Programs/MoreFiles/src"/>
+	<classpathentry kind="src" path="File Programs/NIOClasses/src"/>
+	<classpathentry kind="src" path="Inclass"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="File Programs/NIOClasses/bin"/>
+</classpath>
